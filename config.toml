@@ -1,4 +1,4 @@
-baseURL = "https://riddle06.github.io/"
+baseURL = "https://riddle06.github.io"
 languageCode = "zh-tw"
 title = "Rex's Blog"
 theme = "soho"

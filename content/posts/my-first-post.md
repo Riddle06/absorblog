@@ -46,5 +46,3 @@ tags : ["podcast","youtube"]
 #### 我不知道怎麼分類
 - 魔鞋啾啾
 - 呱吉
-
-git@github.com:Riddle06/riddle06.github.io.git
